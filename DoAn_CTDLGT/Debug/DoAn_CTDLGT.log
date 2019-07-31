@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\doan_ctdlgt\doan_ctdlgt\source.cpp(197): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\source\repos\doan_ctdlgt\doan_ctdlgt\source.cpp(1328): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\asus\source\repos\doan_ctdlgt\doan_ctdlgt\source.cpp(903): warning C4715: 'searchdocgia': not all control paths return a value
+c:\users\asus\source\repos\doan_ctdlgt\doan_ctdlgt\source.cpp(1388): warning C4715: 'updatedocgia': not all control paths return a value
+c:\users\asus\source\repos\doan_ctdlgt\doan_ctdlgt\source.cpp(1417): warning C4715: 'removedocgia': not all control paths return a value
+c:\users\asus\source\repos\doan_ctdlgt\doan_ctdlgt\source.cpp(1448): warning C4715: 'InsertTree': not all control paths return a value
+  DoAn_CTDLGT.vcxproj -> C:\Users\ASUS\source\repos\DoAn_CTDLGT\Debug\DoAn_CTDLGT.exe

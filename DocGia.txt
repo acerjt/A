@@ -1,0 +1,8 @@
+2365 NguenVanA Nam 1
+365 NguenVanB Nu 0
+65 NguenVanC Nam 0
+25 NguenVanD Nam 1
+5 NguenVanE Nu 0
+6 NguenVanF Nu 0
+23 NguenVanG Nu
+36 NguenVanH Nam 1

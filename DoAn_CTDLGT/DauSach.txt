@@ -1,0 +1,13 @@
+325 CoSoDuLieu 162 DoPhuc 2012 TinHoc
+1632 ThietKeCoSoDuLieu 203 TrinhMinhTuan 2013 TinHoc
+654 NhapMonPhatTrienGame 216 DinhNguyenAnhDung 2011 TinHoc
+62 LapTrinhJaVa 197 HoangVanKiem 2007 TinHoc
+1 DacNhanTam 326 DaleCarnegie 2013 VanHoc
+34 SherlockHolmes 278 ArthurConanDoyle 2015 TrinhTham
+12456 HarryPotterPartI 357 J.K.Rowling 2013 TieuThuyet
+6413 GameOfThrone 782 Geogre.R.R.Martin 2016 TieuThuyet
+513 DataStructuresAndAlgorithms 553 AlfredVAho 2017 TinHoc
+92 ToiThayHoaVangTrenCoXanh 342 NguyenNhatAnh 2013 TruyenNgan
+57 CoHaiConMeoNgoiBenCuaSo 273 NguyenNhatAnh 2014 VanHoc
+73 ChoToiXinMotVeDiTuoiTho 282 NguyenNhatAnh 2011 VanHoc
+45 adf 400 asd 2013 TrinhTham
